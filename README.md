@@ -122,4 +122,4 @@ MIT - Feel free to use for learning or your own projects!
 Built with ❤️ using:
 - [Three.js](https://threejs.org/)
 - [Vite](https://vitejs.dev/)
-- Fonts: [Orbitron](https://fonts.google.com/specimen/Orbitron), [Rajdhani](https://fonts.google.com/specimen/Rajdhani)
+- Fonts: [Orbitron](https://fonts.google.com/specimen/Orbitron), [Rajdhani](https://fonts.google.com/specimen/Rajdhani) 
